@@ -5,3 +5,10 @@
 body {
     font-family: 'Inter', sans-serif;
 }
+
+@media (min-width: 768px) {
+    .form {
+        background: url(./assets/form-bg.png);
+        background-size: cover;
+    }
+}
